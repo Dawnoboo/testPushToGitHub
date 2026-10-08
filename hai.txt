@@ -7,3 +7,9 @@ git add ... : adds file to be committed
     - . : all modified files
 git restore ... : restores to a previous version
 git commit -m "" : commits all add files with a message
+
+Now it is important to learn how to push to github: 
+- make a repository on github and run these lines to push a existing git repository on gitub. 
+git remote add origin https://github.com/Dawnoboo/testPushToGitHub.git
+git branch -M main
+git push -u origin main
