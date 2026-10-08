@@ -1,2 +1,9 @@
 Hello all! 
 I am a text file meant to test commits in git. 
+Here are some standard git commands : 
+git status : gives status of changes in the project 
+git add ... : adds file to be committed 
+    - file.name : just that file 
+    - . : all modified files
+git restore ... : restores to a previous version
+git commit -m "" : commits all add files with a message
