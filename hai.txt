@@ -13,3 +13,14 @@ Now it is important to learn how to push to github:
 git remote add origin https://github.com/Dawnoboo/testPushToGitHub.git
 git branch -M main
 git push -u origin main
+
+Finally : 
+In order to update files on the github repository we need to run : 
+git push
+
+In order to make changes in a github repository we need to : 
+
+edit a file 
+git add a file 
+git commit a file 
+git push a file 
