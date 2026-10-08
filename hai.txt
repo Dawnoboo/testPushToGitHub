@@ -1,0 +1,2 @@
+Hello all! 
+I am a text file meant to test commits in git. 
